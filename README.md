@@ -5,16 +5,16 @@ tar zxvf
 nohup ./coredns >/dev/null 2>&1 
 
 https://github.com/coredns/coredns
+```
 
-
-
+```
 .:53{
     forward . 208.67.222.222:443 208.67.222.222:5353 208.67.220.220:443 208.67.220.220:5353
     log
     health
 }
-
-
+```
+```
 .:53{
     forward . 127.0.0.1:5301 127.0.0.1:5302 127.0.0.1:5303
     log
@@ -38,6 +38,6 @@ https://github.com/coredns/coredns
     }
     cache
 }
-
+```
 
 https://laod.cn/dns/coredns-dns.html
