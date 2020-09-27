@@ -1,8 +1,11 @@
 bind
 ```
 yum install bind
+
 systemctl start named
 systemctl enable named
+
+vi /etc/named.conf
 
 
 netstat -tlunp | grep 53
