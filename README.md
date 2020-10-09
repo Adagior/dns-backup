@@ -61,3 +61,4 @@ https://github.com/coredns/coredns
 ```
 
 https://laod.cn/dns/coredns-dns.html
+https://github.com/missdeer/coredns_custom_build
