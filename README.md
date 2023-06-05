@@ -1,10 +1,14 @@
 smartdns
+
 https://github.com/mokeyish/smartdns-rs
 ```
 smartdns run -c ./smartdns.conf -d
 
 smartdns service help
 
+   in-addr.arpa
+   in-addr.arpa
+   in-addr.arpa
 ```
 
 
