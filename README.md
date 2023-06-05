@@ -1,3 +1,17 @@
+smartdns
+https://github.com/mokeyish/smartdns-rs
+```
+smartdns run -c ./smartdns.conf -d
+
+smartdns service help
+
+```
+
+
+
+
+
+
 https://github.com/cachefiles/dnsfix/wiki/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95
 
 n.yiz.me
