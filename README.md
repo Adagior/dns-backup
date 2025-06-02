@@ -7,8 +7,11 @@ smartdns run -c ./smartdns.conf -d
 smartdns service help
 
    in-addr.arpa
-   in-addr.arpa
-   in-addr.arpa
+
+
+server https://1.2.4.8/dns-query  -bootstrap-dns -exclude-default-group
+server https://8.8.8.8/dns-query  -bootstrap-dns -exclude-default-group
+
 ```
 
 
